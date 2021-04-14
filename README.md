@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence algorithms as well as Optimization methods for Software engineering. Would love some help and guidance for the same.
 
-- 👯 I’m looking to collaborate on Machine learning projects related to a data structure search engine I'm planning to make. If you're interested please reach out to me.
+- 👯 I’m looking to collaborate on Machine learning projects and more. If you're interested please reach out to me.
   
   
   ![b2183c6671bc6d23f9ed2acbfb6fa63b](https://user-images.githubusercontent.com/51851121/114674623-0c42fe80-9d25-11eb-8a5d-131b035f20f2.gif)
