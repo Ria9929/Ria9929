@@ -27,6 +27,7 @@
 - ⚡ Fun fact: I am also planning to pursue higher studies in Artificial Intelligence and desirous to improve and enhance my software development, Machine Learning and statistics skills as time is passing and hope to achieve my ambitions soon. 
 
 - 📫 How to reach me: https://www.linkedin.com/in/ria-sehgal-466200188/ , riasehgal1999av@gmail.com , ria291199@gmail.com
+- ![counter](https://enugn3aetg4bhof.m.pipedream.net)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ria9929)
 
