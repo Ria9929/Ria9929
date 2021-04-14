@@ -28,7 +28,7 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/ria-sehgal-466200188/ , riasehgal1999av@gmail.com , ria291199@gmail.com
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ria9929)
 
 <!-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
