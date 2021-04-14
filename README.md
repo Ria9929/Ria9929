@@ -17,14 +17,14 @@
 
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence algorithms as well as Optimization methods for Software engineering. Would love some help and guidance for the same.
 
-- 👯 I’m looking to collaborate on Machine learning projects related to a data structure search engine I'm planning to make. If you're interested please reach out to me.![b2183c6671bc6d23f9ed2acbfb6fa63b](https://user-images.githubusercontent.com/51851121/114674623-0c42fe80-9d25-11eb-8a5d-131b035f20f2.gif)
+- 👯 I’m looking to collaborate on Machine learning projects related to a data structure search engine I'm planning to make. If you're interested please reach out to me.
+  ![b2183c6671bc6d23f9ed2acbfb6fa63b](https://user-images.githubusercontent.com/51851121/114674623-0c42fe80-9d25-11eb-8a5d-131b035f20f2.gif)
 
 
 
 - ⚡ Fun fact: I am also planning to pursue higher studies in Artificial Intelligence and desirous to improve and enhance my software development, Machine Learning and statistics skills as time is passing and hope to achieve my ambitions soon. 
 
 - 📫 How to reach me: https://www.linkedin.com/in/ria-sehgal-466200188/ , riasehgal1999av@gmail.com , ria291199@gmail.com
--                       
 
 
 
