@@ -1,3 +1,5 @@
+[resume (5).pdf](https://github.com/Ria9929/Ria9929/files/6309044/resume.5.pdf)
+![giphy](https://user-images.githubusercontent.com/51851121/114674079-7909c900-9d24-11eb-87d6-266ceaaeed4b.gif)
 ### Welcome to My repositories,This is Ria👋
 
 <!--
