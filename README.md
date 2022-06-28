@@ -11,11 +11,11 @@
 
 - ⭐⭐ Starstruck by the self-driving cars in 2019, I decided to transition to Computer Science and choose it as my career. I am a ML/AI - Software development aspirant. I firmly believe in the saying by Morgan Harper Nichols “There is a reason I am here, and that reason is bigger than me. So I will carry on with great faith beyond what I can see, in pursuit of bold courage on the adventure of the journey.” and thereby I am walking towards the journey with my optimism and quixotic behaviour. I am quite well-versed with Python and have been practising the thrill of using my programming skills to solve problems in creative ways.
 
-- Have experience in Technical content writing/documentation and interned in Python.
+- Have experience in Technical content writing/documentation and interned in Python and currently a Software Engineer at NatWest Group.
 
 - Started with competitive programming in 2021. Good at problem solving in Python as well as well-versed in Python data structures. Codechef:- https://www.codechef.com/users/ria99
 
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence algorithms as well as Optimization methods for Software engineering. Would love some help and guidance for the same.
+- 🌱 I’m currently learning Machine Learning and Artificial Intelligence algorithms as well as Optimization methods as a Software Engineer. Would love some help and guidance for the same.
 
 - 👯 I’m looking to collaborate on Machine learning projects and more. If you're interested please reach out to me.
   
